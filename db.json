@@ -1,0 +1,325 @@
+{
+
+  "version": 1,
+
+  "featuredImageURL" : [
+
+        "https://1000logos.net/wp-content/uploads/2021/08/LIC-Logo.png",
+
+        "https://2.bp.blogspot.com/-3a7iMhpW5T8/Vg84-GHzZ4I/AAAAAAAAIU8/ZmLvzCQnwIw/s1600/India%2BPost%2BLOGO.jpg",
+
+        "https://upload.wikimedia.org/wikipedia/commons/5/50/SIP-logo_eng_new-%28rgb%29.jpg"
+
+  ],
+
+  "compList": [
+
+    {
+
+      "id": 1,
+
+      "name": "Sahara India",
+
+      "schemeTypes": [
+
+        {
+
+          "id": 1,
+
+          "type": "RD",
+
+          "schemes": [
+
+            {
+
+              "name": "M3",
+
+              "duration": 36,
+
+              "depositValue": 7200,
+
+              "matValue": 8129,
+
+              "minAmt": 200,
+
+              "multiple": 100,
+
+              "id": 7784674552381,
+
+              "description": ""
+
+            },
+
+            {
+
+              "name": "M4",
+
+              "duration": 48,
+
+              "depositValue": 9600,
+
+              "matValue": 11635,
+
+              "minAmt": 200,
+
+              "multiple": 100,
+
+              "id": 7784674582704,
+
+              "description": ""
+
+            },
+
+            {
+
+              "name": "M5",
+
+              "duration": 60,
+
+              "depositValue": 12000,
+
+              "matValue": 15264,
+
+              "minAmt": 200,
+
+              "multiple": 100,
+
+              "id": 7784674586902,
+
+              "description": ""
+
+            },
+
+            {
+
+              "name": "M6",
+
+              "duration": 60,
+
+              "depositValue": 12000,
+
+              "matValue": 19521,
+
+              "minAmt": 200,
+
+              "multiple": 100,
+
+              "id": 7784674590168,
+
+              "description": ""
+
+            },
+
+            {
+
+              "name": "M10",
+
+              "duration": 120,
+
+              "depositValue": 24000,
+
+              "matValue": 42528,
+
+              "minAmt": 200,
+
+              "multiple": 100,
+
+              "id": 7784674592967,
+
+              "description": ""
+
+            },
+
+            {
+
+              "name": "M15",
+
+              "duration": 120,
+
+              "depositValue": 24000,
+
+              "matValue": 79200,
+
+              "minAmt": 200,
+
+              "multiple": 100,
+
+              "id": 7784674595766,
+
+              "description": ""
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "id": 2,
+
+          "type": "FD",
+
+          "schemes": [
+
+            {
+
+              "name": "F64",
+
+              "duration": 64,
+
+              "depositValue": 5000,
+
+              "matValue": 10000,
+
+              "minAmt": 1000,
+
+              "multiple": 100,
+
+              "id": 7784707186851,
+
+              "description": ""
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "id": 3,
+
+          "type": "DLY",
+
+          "schemes": [
+
+            {
+
+              "name": "D1",
+
+              "duration": 12,
+
+              "depositValue": 36500,
+
+              "matValue": 37000,
+
+              "minAmt": 200,
+
+              "multiple": 100,
+
+              "id": 7784707220905,
+
+              "description": ""
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "id": 4,
+
+          "type": "MIS",
+
+          "schemes": []
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "id": 2,
+
+      "name": "Life Insurance Corporation of India",
+
+      "schemeTypes": [
+
+        {
+
+          "id": 1,
+
+          "type": "Endorment",
+
+          "schemes": [
+
+            {
+
+              "name": "Some Schme",
+
+              "duration": 12,
+
+              "depositValue": 36500,
+
+              "matValue": 37000,
+
+              "minAmt": 200,
+
+              "multiple": 100,
+
+              "id": 7784707220905,
+
+              "description": ""
+
+            }
+
+          ]
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "id": 3,
+
+      "name": "India Post",
+
+      "schemeTypes": [
+
+        {
+
+          "id": 1,
+
+          "type": "Endorment",
+
+          "schemes": [
+
+            {
+
+              "name": "Some Schme",
+
+              "duration": 12,
+
+              "depositValue": 36500,
+
+              "matValue": 37000,
+
+              "minAmt": 200,
+
+              "multiple": 100,
+
+              "id": 7784707220905,
+
+              "description": ""
+
+            }
+
+          ]
+
+        }
+
+      ]
+
+    }
+
+  ]
+
+}
